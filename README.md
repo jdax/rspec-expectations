@@ -26,6 +26,21 @@ If you want to use rspec-expectations with another tool, like Test::Unit,
 Minitest, or Cucumber, you can install it directly:
 
     gem install rspec-expectations
+    
+    
+## Contributing
+
+Once you've set up the environment, you'll need to cd into the working
+directory of whichever repo you want to work in. From there you can run the
+specs and cucumber features, and make patches.
+
+NOTE: You do not need to use rspec-dev to work on a specific RSpec repo. You
+can treat each RSpec repo as an independent project.
+
++(Code of Conduct)[https://github.com/rspec/rspec-core/blob/master/code_of_conduct.md]  
++(Contributing)[https://github.com/rspec/rspec-core/blob/master/CONTRIBUTING.md]  
++(Development Setup)[https://github.com/rspec/rspec-core/blob/master/DEVELOPMENT.md]  
+
 
 ## Basic usage
 
